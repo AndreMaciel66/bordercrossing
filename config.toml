@@ -69,10 +69,12 @@ summarylength = 25
     background_image      = "images/backgrounds/hero-background.jpg"
     heading               = "Our mission is to integrate historically-segregated audiences and musicians through the performance of choral music. We envision a landscape where singers and audiences more closely reflect the racial and cultural composition of the Twin Cities."
     tagline               = "CROSSING BORDERS"
-    primary_button        = "Check Events"
-    primary_button_url    = "portfolio"
-    secondary_button      = "Connect with Us"
+    primary_button        = "Events"
+    primary_button_url    = "events"
+    secondary_button      = "Listen"
     secondary_button_url  = "contact"
+    another_button        = "About"
+    another_button_url    = "about"
 
   [params.portfolio]
     enable    = true
